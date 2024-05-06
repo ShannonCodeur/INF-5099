@@ -1,0 +1,3 @@
+# Devoir 1 : Algorithme K-Means Séquentiel
+
+### Implémenter l'Algorithme K-Means (Version Séquentielle) en C, C++ et Java
